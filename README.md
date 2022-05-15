@@ -50,7 +50,6 @@
       <a align="center" href="https://www.linkedin.com/in/vitor-ferreira-vf/"> <span align="center" text-align="center"> Vitor Ferreira </span> </a>
     </td>
     <td align="center">
-      <span align="center" href="https://vitorferreira.netlify.app/"> text-align="center"> Portfólio </span>
-    </td>
+<a align="center" href="https://vitorferreira.netlify.app/"> <span align="center" text-align="center"> Vitor Ferreira - Portfólio </span> </a>    </td>
     
   </tr>
