@@ -53,7 +53,7 @@
 <a align="center" href="https://vitorferreira.netlify.app/"> <span align="center" text-align="center"> Vitor Ferreira - Portfólio </span> </a>    </td>
     
   </tr>
-  
+  </table>
   
   <div> 
        <div align="center">
