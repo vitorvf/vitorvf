@@ -98,9 +98,9 @@
 </div>
 
 
-  ![Snake animation](https://github.com/vitorvf/vitorvf/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+<div align="center"> 
+  <a href="#"> <img src="https://github.com/wh1t3h47/wh1t3h47/blob/output/github-contribution-grid-snake.gif" alt="cobrinha (mostra meus commits ao longo do ano)" /> </a>
+         </div>
        
 
     
