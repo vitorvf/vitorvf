@@ -55,14 +55,14 @@
   </tr>
   </table>
   <div style="width: 100%" align="center">
- <a href="#" disabled=""> <img alt="Trófeus do Github de Antônio" src="https://github-profile-trophy.vercel.app/?username=vitorvf&row=1&count_private=true" /> </a>
+ <a href="#" disabled=""> <img alt="Trófeus do Github de Vitor" src="https://github-profile-trophy.vercel.app/?username=vitorvf&row=1&count_private=true" /> </a>
 </div>
 
 
   <div> 
        <div align="center">
       <a href="https://github.com/vitorvf">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorvf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorvf&layout=compact&langs_count=7&theme=dracula"/>
     </div>
   </div>
