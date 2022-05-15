@@ -54,7 +54,11 @@
     
   </tr>
   </table>
-  
+  <div style="width: 100%" align="center">
+ <a href="#" disabled=""> <img alt="Trófeus do Github de Antônio" src="https://github-profile-trophy.vercel.app/?username=vitorvf&row=1&count_private=true" /> </a>
+</div>
+
+
   <div> 
        <div align="center">
       <a href="https://github.com/vitorvf">
@@ -85,5 +89,11 @@
        <div align="center"> <a href="#" disabled=""> 
 
 <div/>
+         
+         ## Currículo:
+
+<div align="center">
+  <a href="https://raw.githubusercontent.com/vitorvf/vitor/master/cv.pdf"> <img src="./output.png" alt="Meu currículo, clique aqui para abrir" /> </a>
+</div>
 
     
