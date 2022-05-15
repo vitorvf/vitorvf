@@ -92,7 +92,10 @@
          
 ## Currículo:
 
-  ![Snake animation](https://github.com/vitorvf/vitorvf/blob/output/github-contribution-grid-snake.svg)
+
+<div align="center">
+  <a href="https://raw.githubusercontent.com/vitorvf/vitorvf/master/cv.pdf"> <img src="./output.png" alt="Meu currículo, clique aqui para abrir" /> </a>
+</div>
 
 
        
