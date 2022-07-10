@@ -95,7 +95,7 @@
 
 
 <div align="center">
-  <a href="https://raw.githubusercontent.com/vitorvf/vitorvf/master/cv.pdf"> <img src="./output.jpg" alt="Meu currículo, clique aqui para abrir" /> </a>
+  <a href="https://raw.githubusercontent.com/vitorvf/vitorvf/master/cv.pdf"> <img src="./ndhqa4T.jpg" alt="Meu currículo, clique aqui para abrir" /> </a>
 </div>
 
 
